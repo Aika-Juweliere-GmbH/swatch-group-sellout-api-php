@@ -91,4 +91,4 @@ bool | $isSellout | Is that a sellout or not?  | `true` or `false`
 
 Do you have any question or have ideas to make this project better?
 
-Then write me an email: tom.gottschlich@uhrnelounge.de
+Then write me an email: tom.gottschlich@uhrenlounge.de
